@@ -1,0 +1,26 @@
+METADATA
+Population size	100
+Vaccination percentage	0.5
+Virus name	Fake Disease
+Mortality rate	0.5
+Basic reproduction number	0.5
+------
+10 people died from the infection
+10 people were vaccinated
+80 people are alive
+10 people are vaccinated
+10 infected remain.
+10 people are dead
+10 infected people had 10 interactions with healthy people, resulting in 10 new infections
+------
+TIME STEP NUMBER: 	10
+------
+------
+TOTAL TIME STEPS: 	10
+REASON FOR ENDING: 	All the people died
+Survivors: 	80
+Deaths: 	10
+Survival rate: 88.88888888888889%
+------
+SIMULATION COMPLETE
+------

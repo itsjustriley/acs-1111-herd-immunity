@@ -1,0 +1,46 @@
+METADATA
+Population size	100
+Vaccination percentage	0.0
+Virus name	Disease-itis
+Mortality rate	0.5
+Basic reproduction number	0.5
+------
+------
+TIME STEP NUMBER: 	1
+------
+1 infected people had 81 interactions with healthy people, resulting in 35 new infections
+0 people died from the infection
+1 people were vaccinated
+100 people are alive
+1 people are vaccinated
+35 infected remain.
+0 people are dead
+------
+TIME STEP NUMBER: 	2
+------
+35 infected people had 137 interactions with healthy people, resulting in 64 new infections
+17 people died from the infection
+18 people were vaccinated
+83 people are alive
+19 people are vaccinated
+64 infected remain.
+17 people are dead
+------
+TIME STEP NUMBER: 	3
+------
+64 infected people had 0 interactions with healthy people, resulting in 0 new infections
+31 people died from the infection
+33 people were vaccinated
+52 people are alive
+52 people are vaccinated
+0 infected remain.
+48 people are dead
+------
+TOTAL TIME STEPS: 	3
+REASON FOR ENDING: 	Everyone is vaccinated
+Survivors: 	52
+Deaths: 	48
+Survival rate: 52.0%
+------
+SIMULATION COMPLETE
+------
